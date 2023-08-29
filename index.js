@@ -30,7 +30,7 @@ var game = [
   },
   {
     question: 'Monica dated an opthalmologist named? ',
-    answer: 'Richrd'
+    answer: 'Richard'
   },
   {
     question: "What is Chandler Bing's middle name? ",
